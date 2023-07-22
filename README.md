@@ -5,7 +5,7 @@ This program is an example of how to use powershell as GUI Web Browser named as 
 
 
 ##### Usage: 
-I expect that you have already installed the git brush on your windows also the node.js
+I expect that you have already installed the git bash on your windows also the node.js
 
 ​		`git clone https://github.com/git-shad/webro.git`
 
