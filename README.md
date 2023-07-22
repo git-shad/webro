@@ -6,7 +6,7 @@ This program is example to how to use the powershell as GUI Web Browser named as
 
 ##### Usage: 
 
-​		`git clone `
+​		`git clone https://github.com/git-shad/webro.git`
 
 ​		`npm run show`
 
